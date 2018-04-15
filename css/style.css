@@ -1,0 +1,53 @@
+body{
+  background-color:rgb(100,0,15);
+}
+
+#fullPage{
+  justify-content: center;
+}
+
+#quoteWindow{
+  margin-top: 4%;
+  margin-left:15%;
+  margin-right:15%;
+  text-align:center;
+  
+  background-color:lightgrey;
+}
+
+#quoteText{
+  text-align:center;
+ 
+}
+
+#quoteAuthor{
+  text-align:right;
+}
+
+#newQuoteButton{
+  text-align:center;
+  margin-top:5%;
+  margin-bottom:1%;
+}
+
+.fa {
+    padding: 16px;
+    font-size: 23px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+}
+
+#socialMedia{
+  margin-top:5%;
+  margin-bottom:-1%;
+}
